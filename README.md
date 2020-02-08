@@ -5,3 +5,6 @@
 个人博客主页: [不会飞的纸飞机](http://www.douzhq.cn) </br>
 微信公众号： 不会飞的纸飞机</br>
 CSDN说明页：https://blog.csdn.net/douzhq/article/details/104223920
+
+---
+**CustomControls** 目录下的 **UICustomColorControl** 目录为主要该功能的实现
